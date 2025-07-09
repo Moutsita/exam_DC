@@ -1,0 +1,5 @@
+pandas
+sélénium
+time
+kobotoolbox #utilisation du formulaire
+streamlit
