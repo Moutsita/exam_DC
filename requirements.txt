@@ -1,5 +1,9 @@
+numpy
+bs4
+requests
+scipy
+matplotlib
 pandas
-sélénium
-time
-kobotoolbox #utilisation du formulaire
 streamlit
+seaborn
+pybase64
